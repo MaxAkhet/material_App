@@ -1,7 +1,7 @@
 <div class="flex items-center justify-between flex-shrink-0 px-3">
     <!-- Logo -->
     <a href="{{ route('dashboard') }}" class="inline-flex items-center gap-2">
-        <img src="{{ asset('ENSAF.png') }}" alt="Logo" width="80" height="80">
+        <img src="{{ asset('logoensaf.png') }}" alt="Logo" width="80" height="80">
 
         {{-- <x-application-logo aria-hidden="true" class="w-10 h-auto" /> --}}
         <span class="sr-only">K UI Logo</span>
